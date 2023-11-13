@@ -1,0 +1,37 @@
+#arriver {
+
+    display: flex;
+
+}
+
+#jeux {
+
+    display: none;
+
+}
+
+.coffre {
+
+    background-image: url("./img/crate.jpg");
+
+}
+
+#alert {
+
+    display: none;
+
+}
+
+#plateau {
+
+    height: 40rem;
+    width: 40rem;
+
+}
+
+#plateau>div {
+
+    height: 10rem;
+    width: 10rem;
+
+}
